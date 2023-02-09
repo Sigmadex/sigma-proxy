@@ -1,1 +1,1 @@
-# SigmaDex Proxy Contract
+# Sigmadex Proxy Architecture
